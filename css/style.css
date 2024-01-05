@@ -38,20 +38,27 @@ body{
 /* section1 start */
 .main{
     width: 1000px;
-    height: 400px;
+    height: 230px;
     background-color: purple;
     margin: 0 auto;
     position: relative;
 }
 .right-block{
-    width:250px;
+    width:400px;
     height: 200px;
     background-color:blue;
     position: absolute; 
+    right: 80px;
+    top: 20px;
 }
 .left-block{
-    width:250px;
+    width:400px;
     height: 200px;
     background-color:red;
     position: absolute;
+    left: 20px;
+    top: 20px;
+}
+.satauri1{
+    margin: 20px;
 }
