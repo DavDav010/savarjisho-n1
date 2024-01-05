@@ -1,6 +1,6 @@
 /* header start */
 body{
-    height: 2000px;
+    height: 1500px;
     padding-top: 92px;
 }
 .header{
@@ -39,26 +39,67 @@ body{
 .main{
     width: 1000px;
     height: 230px;
-    background-color: purple;
+    /* background-color: purple; */
     margin: 0 auto;
     position: relative;
 }
 .right-block{
     width:400px;
     height: 200px;
-    background-color:blue;
+    background-color:lightgrey;
     position: absolute; 
     right: 80px;
     top: 20px;
+    padding: 5px 5px;
 }
 .left-block{
     width:400px;
     height: 200px;
-    background-color:red;
+    background-color:lightgrey;
     position: absolute;
-    left: 20px;
+    left: 0px;
     top: 20px;
+    padding: 5px 5px;
 }
 .satauri1{
-    margin: 20px;
+    margin: 20px 20px 20px 0;
+}
+/* section 1 end */
+
+/* section 2 start */
+.main2{
+    width: 1000px;
+    height: 400px;
+    /* background-color: green; */
+    margin: 100px auto;
+   
+}
+.surati1{
+    width: 300px;
+    height: 200px;
+  
+   
+}
+.surati2{
+    width: 300px;
+    height: 200px;
+    margin:0px 20px;
+   
+    
+}
+.surati3{
+    width: 300px; 
+    height: 200px;
+    position: absolute;
+}
+.section3{
+    width: 400px;
+    height: 200px;
+    margin: 0 auto;  
+}
+.text2{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-size: 70px;
+    text-align: center;
 }
