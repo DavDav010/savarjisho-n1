@@ -1,0 +1,21 @@
+.logo{
+    margin: 0px 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.navigation{
+    display: inline-block;
+    vertical-align: middle;
+}
+.nav-li{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.nav-a{
+    margin-left: 50px;
+    color:black;
+}
+.active{
+    color: red;
+}
